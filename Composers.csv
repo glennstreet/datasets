@@ -1,8 +1,8 @@
 Last name,First name,Birth year,Death year,Genre,Nationality
 Abe,Komei,1911,2006,Classical,
 Adam,Adolphe,1803,1856,Classical,
-Adams,John,1947,Still living,Classical,
-Adès,Thomas,1971,Still living,Classical,
+Adams,John,1947,Still living,Classical,American
+Adès,Thomas,1971,Still living,Classical,British
 Aho,Kalevi,1949,Still living,Classical,
 Alain,Jehan,1911,1940,Classical,
 Albéniz,Isaac,1860,1909,Classical,
@@ -76,7 +76,7 @@ Bottesini,Giovanni,1821,1889,Romantic,Italian
 Boughton,Rutland,1878,1960,Classical,
 Boulanger,Lili,1893,1918,Classical,
 Boulanger,Nadia,1887,1979,Classical,
-Boulez,Pierre,1925,Still living,Classical,
+Boulez,Pierre,1925,2016,Classical,French
 Bowen,York,1884,1961,Classical,
 Boyce,William,1711,1779,Classical,
 Brahms,Johannes,1833,1897,Classical,
