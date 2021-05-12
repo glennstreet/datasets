@@ -205,7 +205,7 @@ Field,John,1782,1837,Classical,
 Fils,Anton,1733,1760,Classical,German
 Fischer,Johann Caspar Ferdinand,1656,1746,Baroque,German
 Frescobaldi,Girolamo,1583,1643,Baroque,Italian
-Gershwin,George,1898,1937,?,American
+Gershwin,George,1898,1937,Multiple,American
 Gibbons,Orlando,1583,1625,Renaissance,English
 Ginastera,Alberto Evaristo,1916,1983,Classical,Argentinian
 Glass,Philip,1937,Still living,Modern,American
@@ -215,6 +215,7 @@ Handel,George Frideric Handel,1685,1759,Baroque,German-English
 Henze,Hans Werner,1926,2012,Modern,German
 Hindemith,Paul,1895,1963,Modern,German
 Holzbauer,Ignaz,1711,1783,Classical,Austrian
+Janáček,Leoš,1854,1928,Romantic,Czech
 Kozeluch,Leopold,1747,1818,Classical,Bohemian (Czech Republic)
 Kraus,Joseph Martin,1756,1792,Classical,German
 Kromer,Franz,1759,1831,Classical,Moravian (Czech Republic)
@@ -225,6 +226,7 @@ Luzzaschi,Luzzasco,1545,1607,Renaissance,Italian
 Ligeti,György,1923,2006,Modern,Hungarian-Austrian
 Mahler,Gustav,1860,1911,Romantic,Austro-Bohemian
 Mendelssohn,Felix,1809,1847,Romantic,German
+Messiaen,Olivier Eugène Prosper Charles,1908,1992,Modern,French
 Molter,Johann Melchior,1696,1765,Baroque,German
 Monteverdi,Claudio Giovanni Antonio,1567,1643,Baroque,Italian
 Mozart,Johann Georg Leopold,1719,1787,Classical,German
@@ -236,6 +238,7 @@ Picchi,Giovanni,1571,1643,Baroque,Italian
 Pleyel,Ignace Joseph,1757,1831,Classical,Austrian
 Praetorius,Michael,1571,1621,Baroque,German
 Prokofiev,Sergey,1891,1953,Modern,Russian
+Poulenc,Francis,1899,1963,Modern,French
 Rachmaninoff,Sergei Vasilyevich,1873,1943,Romantic,Russian
 Rameau,Jean-Philippe,1684,1764,Baroque,French
 Ravel,Maurice,1875,1937,Modern,French
@@ -254,6 +257,8 @@ Schubert,Franz Peter,1797,1828,Classical,Austrian
 Schumann,Robert,1810,1856,Romantic,German
 Schütz,Heinrich,1585,1672,Baroque,German
 Shostakovich,Dmitry,1906,1975,Modern,Russian
+Sibelius,Jean,1865,1957,Romantic,Finnish
+Smetana,Bedřich,1824,1884,Romantic,Czech
 Smith,Robert,1959,Still living,Post-punk,United Kingdom
 Sowande,"Olufela Obafunmilayo ""Fela""",1905,1987,Modern,Nigerian
 Stamitz,Anton Thadäus Johann Nepomuk,1750,1798-1809,Classical,German
@@ -263,12 +268,15 @@ Strauss I,Johann Baptist,1804,1849,Romantic,Austrian
 Strauss II,Johann Baptist,1825,1899,Romantic,Austrian
 Stravinsky,Igor,1882,1971,Modern,Russian
 Sweelinck,Jan Pieterszoon,1562,1621,Renaissance,Dutch
+Szymanowski,Karol Maciej,1882,1937,Modern,Polish
 Taverner,John,1480,1545,Renaissance,English
 Tavener,John,1944,2013,Classical,British
 Telemann,Georg Philipp,1681,1767,Baroque,German
+Tippett,Michael Kemp,1905,1998,Modern,English
 Verdi,Giuseppe Fortunino Francesco,1813,1901,Romantic,Italian
 Wagenseil,Georg Christoph,1715,1777,Classical,Austrian
 Wagner,Wilhelm Richard,1813,1883,Romantic,German
 Wanhal,Johann Baptist,1739,1813,Classical,Czech
+Weill,Kurt Julian,1900,1950,Modern,German-American
 Weir,Judith,1954,Still living,Modern,British
 Wranitzky,Paul,1756,1808,Classical,Moravian (Czech Republic)
