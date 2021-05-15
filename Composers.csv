@@ -5,9 +5,9 @@ Adams,John,1947,Still living,Classical,American
 Adès,Thomas,1971,Still living,Classical,British
 Aho,Kalevi,1949,Still living,Classical,
 Alain,Jehan,1911,1940,Classical,
-Albéniz,Isaac,1860,1909,Classical,
+Albéniz,Isaac,1860,1909,Romantic,Spanish
 Albert,Eugen d',1864,1932,Classical,
-Albinoni,Tomaso,1671,1751,Classical,
+Albinoni,Tomaso,1671,1751,Baroque,Italian
 Alfano,Franco,1875,1954,Classical,
 Alfvén,Hugo,1872,1960,Classical,
 Alkan,Charles-Valentin,1813,1888,Classical,
@@ -18,7 +18,7 @@ Anderson,Leroy,1908,1975,Classical,
 Andreae,Volkmar,1879,1962,Classical,
 Aragón,Emilio,1959,Still living,Classical,
 Arensky,Anton,1861,1906,Classical,
-Arne,Thomas,1710,1778,Classical,
+Arne,Thomas,1710,1778,Classical,English
 Arnell,Richard,1917,Still living,Classical,
 Arnold,Malcolm,1921,2006,Classical,
 Arriaga,Juan,1806,1826,Classical,
@@ -45,7 +45,7 @@ Bartók,Béla,1881,1945,Modern,Hungarian
 Bax,Arnold,1883,1953,Classical,
 Beach,Amy,1867,1944,Classical,
 Beck,Franz Ignaz,,,Classical,
-Beethoven,Ludwig van,1770,1827,Classical,
+Beethoven,Ludwig van,1770,1827,Classical,German
 Bellini,Vincenzo Salvatore Carmelo Francesco,1801,1835,Bel canto,Italian
 Benjamin,Arthur,1893,1960,Classical,
 Bennett,Richard Rodney,1936,Still living,Classical,
@@ -129,17 +129,18 @@ Chilcott,Bob,1955,Still living,Classical,
 Chisolm,Erik,1904,1965,Classical,
 Chopin,Frédéric,1810,1849,Romantic,Polish
 Cilea,Francesco,1866,1950,Classical,
-Cimarosa,Domenico,1749,1801,Classical,
+Cimarosa,Domenico,1749,1801,Classical,Italian
 Clemens Non Papa,Jacob,1510,1555,Classical,
 Clementi,Muzio,1752,1832,Classical,
 Cliffe,Frederic,1857,1931,Classical,
 Clifford,Hubert,1904,1959,Classical,
 Coates,Eric,1886,1957,Classical,
-Coleridge-Taylor,Samuel,1875,1912,Classical,
+Coleridge-Taylor,Avril,1903,1998,Modern,English
+Coleridge-Taylor,Samuel,1875,1912,Romantic,English
 Collins,Anthony,1893,1963,Classical,
 Confrey,Edward,1895,1971,Classical,
 Cooke,Arnold,1906,2005,Classical,
-Copland,Aaron,1900,1990,Classical,United States
+Copland,Aaron,1900,1990,Classical,American
 Corelli,Arcangelo,1653,1713,Classical,
 Corigliano,John,1938,Still living,Classical,United States
 Cornysh,William,1468,1523,Classical,
@@ -164,10 +165,11 @@ Davies,Sir Henry Walford,1869,1941,Classical,
 Davis,Carl,1936,Still living,Classical,
 Debussy,Claude,1862,1918,Impressionist,French
 Decaux,Abel,1869,1943,Classical,
+de Laporta,Isidro,1750,1808,Classical,Spanish
 Del Tredici,David,1937,Still living,Classical,
 Delage,Maurice,1879,1961,Classical,
 Delibes,Léo,1836,1891,Classical,
-Delius,Frederick,1862,1934,Classical,
+Delius,Frederick,1862,1934,Modern,English
 Devienne,François,1759,1803,Classical,
 Diamond,David,1915,2005,Classical,
 Dietrich,Albert,1829,1908,Classical,
@@ -192,9 +194,11 @@ Dyson,George,1883,1964,Classical,
 Edwards,Ross,1943,Still living,Classical,
 El-Khoury,Bechara,1957,Still living,Classical,
 Elgar,Edward,1857,1934,Classical,English
+Elmas,Stéphan,1862,1937,Romantic,Armenian
 Elms,Roderick,1951,Still living,Classical,
 Emmanuel,Maurice,1862,1938,Classical,
 Enescu,Georges,1881,1955,Classical,
+Erlebach,Philipp Heinrich,1657,1714,Baroque,German
 Falla,Manuel de,1876,1946,Classical,
 Farnaby,Giles,1562,1640,Classical,
 Farnon,Robert,1917,Still living,Classical,
@@ -208,11 +212,14 @@ Field,John,1782,1837,Classical,
 Fils,Anton,1733,1760,Classical,German
 Fischer,Johann Caspar Ferdinand,1656,1746,Baroque,German
 Frescobaldi,Girolamo,1583,1643,Baroque,Italian
+Gerhard,Robert,1896,1970,Modern,Spanish
 Gershwin,George,1898,1937,Multiple,American
 Gibbons,Orlando,1583,1625,Renaissance,English
 Ginastera,Alberto Evaristo,1916,1983,Classical,Argentinian
 Glass,Philip,1937,Still living,Modern,American
+Goldmark,Karl,1830,1915,Romantic,Hungarian-Austrian
 Gossec,François Joseph,1734,1829,Classical,French
+Grieg,Edvard Hagerup,1843,1907,Romantic,Norwegian
 Hakenberger,Andreas,1574,1627,Baroque,German
 Handel,George Frideric Handel,1685,1759,Baroque,German-English
 Henze,Hans Werner,1926,2012,Modern,German
@@ -231,6 +238,7 @@ Liszt,Franz,1811,1886,Hungarian,Romantic
 Lully,Jean-Baptiste,1632,1687,Baroque,Italian-French
 Luzzaschi,Luzzasco,1545,1607,Renaissance,Italian
 Mahler,Gustav,1860,1911,Romantic,Austro-Bohemian
+Marcello,Alessandro Ignazio,1673,1747,Baroque,Italian
 Mendelssohn,Felix,1809,1847,Romantic,German
 Messiaen,Olivier Eugène Prosper Charles,1908,1992,Modern,French
 Molter,Johann Melchior,1696,1765,Baroque,German
@@ -240,13 +248,17 @@ Mozart,Wolfgang Amadeus,1756,1791,Classical,Austrian
 Mussorgsky,Modest Petrovich,1839,1881,Romantic,Russian
 Mysliveček,Josef,1737,1781,Classical,Czech
 Nielsen,Carl August,1865,1931,Romantic,Danish
+Paganini,Niccolò,1782,1840,Romantic,Italian
 Pärt,Arvo,1935,Still living,Modern,Estonian
+Perkinson,Coleridge-Taylor,1932,2004,Modern,American
 Pérotin,,,1238?,Medieval,French
 Picchi,Giovanni,1571,1643,Baroque,Italian
 Pleyel,Ignace Joseph,1757,1831,Classical,Austrian
+Poot,Marcel,1901,1988,Modern,Belgian
 Praetorius,Michael,1571,1621,Baroque,German
 Prokofiev,Sergey,1891,1953,Modern,Russian
 Poulenc,Francis,1899,1963,Modern,French
+Price,Florence Beatrice,1887,1953,Modern,American
 Puccini,Giacomo,1858,1924,Romantic,Italian
 Rachmaninoff,Sergei Vasilyevich,1873,1943,Romantic,Russian
 Rameau,Jean-Philippe,1684,1764,Baroque,French
@@ -260,6 +272,7 @@ Rimsky-Korsakov,Nikolai Andreyevich,1844,1908,Romantic,Russian
 Rosetti,Francesco Antonio,1750,1792,Classical,Bohemian (Czech Republic)
 Rossi,Luigi,1597,1653,Baroque,Italian
 Rossini,Gioachino Antonio,1792,1868,Bel canto,Italian
+Roussel,Albert,1869,1937,Modern,French
 Saint-Saëns,Charles-Camille,1835,1921,Romantic,French
 Sammartini,Giovani Battista,1700,1775,Classical,Italian
 Schenk,Johann Baptist,1753,1836,Classical,Austrian
@@ -268,6 +281,7 @@ Schubert,Franz Peter,1797,1828,Classical,Austrian
 Schumann,Clara Josephine,1819,1896,Romantic,German
 Schumann,Robert,1810,1856,Romantic,German
 Schütz,Heinrich,1585,1672,Baroque,German
+Seixas,Carlos,1704,1742,Baroque,Portuguese
 Shostakovich,Dmitry,1906,1975,Modern,Russian
 Sibelius,Jean,1865,1957,Romantic,Finnish
 Smetana,Bedřich,1824,1884,Romantic,Czech
@@ -276,6 +290,7 @@ Sowande,"Olufela Obafunmilayo ""Fela""",1905,1987,Modern,Nigerian
 Stamitz,Anton Thadäus Johann Nepomuk,1750,1798-1809,Classical,German
 Stamitz,Carl Philipp,1745,1801,Classical,German
 Stamitz,Johann Wenzel Anton,1717,1757,Classical,Bohemian (Czech Republic)
+Steibelt,Daniel Gottlieb,1765,1823,Romantic,German
 Strauss,Richard Georg,1864,1949,Late Romantic,German
 Strauss I,Johann Baptist,1804,1849,Romantic,Austrian
 Strauss II,Johann Baptist,1825,1899,Romantic,Austrian
@@ -292,6 +307,7 @@ Vaughan Williams,Ralph,1872,1958,Modern,English
 Verdi,Giuseppe Fortunino Francesco,1813,1901,Romantic,Italian
 Wagenseil,Georg Christoph,1715,1777,Classical,Austrian
 Wagner,Wilhelm Richard,1813,1883,Romantic,German
+Walton,William,1902,1983,Modern,English
 Wanhal,Johann Baptist,1739,1813,Classical,Czech
 Warlock,Peter,1894,1930,Romantic,English
 Webern,Anton Friedrich Wilhelm,1883,1945,Modern,Austrian
