@@ -138,7 +138,7 @@ Clemens Non Papa,Jacob,1510,1555,Classical,
 Clementi,Muzio,1752,1832,Classical,
 Cliffe,Frederic,1857,1931,Classical,
 Clifford,Hubert,1904,1959,Classical,
-Coates,Eric,1886,1957,Classical,
+Coates,Eric,1886,1957,Modern,English
 Coleridge-Taylor,Avril,1903,1998,Modern,English
 Coleridge-Taylor,Samuel,1875,1912,Romantic,English
 Collins,Anthony,1893,1963,Classical,
@@ -232,6 +232,7 @@ Gossec,François Joseph,1734,1829,Classical,French
 Gounod,Charles,1818,1893,Romantic,French
 Granados,Enrique,1867,1916,Romantic,Spanish
 Grieg,Edvard Hagerup,1843,1907,Romantic,Norwegian
+Griffes,Charles Tomlinson,1884,1920,Impressionist,American
 Groslot,Robert,1951,Still living,Modern,Belgian
 Gurney,Ivor,1890,1937,Romantic,English
 Hakenberger,Andreas,1574,1627,Baroque,German
@@ -246,6 +247,7 @@ Horner,James,1953,2015,Film music,American
 Ireland,John,1878,1962,Modern,English
 Ives,Charles Edward,1874,1954,Modernist,American
 Janáček,Leoš,1854,1928,Romantic,Czech
+Jarre,Maurice-Alexis,1924,2009,Film music,French
 Joplin,Scott,1868,1917,Ragtime,American
 Kavanagh,Dale,1958,Still living,Modern,Canadian
 Korngold,Erich Wolfgang,1897,1957,Modern,Austrian-American
@@ -253,10 +255,12 @@ Kozeluch,Leopold,1747,1818,Classical,Bohemian (Czech Republic)
 Kraus,Joseph Martin,1756,1792,Classical,German
 Kreisler,Fritz,1875,1962,Modern,Austrian-American
 Kromer,Franz,1759,1831,Classical,Moravian (Czech Republic)
+Lalo,Édouard,1823,1892,Romantic,French
 Lehmann,Liza,1862,1918,Romantic,English
 Léonin,,12th c.,,Medieval,French
 Ligeti,György,1923,2006,Modern,Hungarian-Austrian
-Liszt,Franz,1811,1886,Hungarian,Romantic
+Liszt,Franz,1811,1886,Romantic,Hungarian
+Lotti,Antonio,1667,1740,Baroque,Italian
 Lully,Jean-Baptiste,1632,1687,Baroque,Italian-French
 Luzzaschi,Luzzasco,1545,1607,Renaissance,Italian
 Mahler,Gustav,1860,1911,Romantic,Austro-Bohemian
@@ -285,6 +289,9 @@ Pearsall,Robert Lucas de,1795,1856,Romantic,English
 Perkinson,Coleridge-Taylor,1932,2004,Modern,American
 Pérotin,,,1238?,Medieval,French
 Picchi,Giovanni,1571,1643,Baroque,Italian
+Pla,Joan Baptista,1720,1773,Baroque,Spanish
+Pla,Josep,1728,1762,Baroque,Spanish
+Pla,Manuel,1725,1766,Baroque,Spanish
 Pleyel,Ignace Joseph,1757,1831,Classical,Austrian
 Ponce,Manuel,1882,1948,Modern,Mexican
 Poot,Marcel,1901,1988,Modern,Belgian
