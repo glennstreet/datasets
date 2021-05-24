@@ -62,6 +62,7 @@ Berkeley,Michael,1948,Still living,Classical,
 Berlioz,Louis-Hector,1803,1869,Romantic,French
 Berners,Lord,1883,1950,Classical,
 Bernstein,Leonard,1918,1990,Classical,American
+Bertali,Antonio,1605,1669,Baroque,Italian
 Berwald,Franz,1796,1868,Classical,
 Biber,Heinrich,1644,1704,Classical,
 Binge,Ronald,1910,1979,Classical,
@@ -96,6 +97,7 @@ Bruckner,Anton,1824,1896,Classical,Austrian
 Brumel,Antoine,1460,1520,Classical,
 Brusa,Elisabetta,1954,Still living,Classical,
 Bull,John,1562,1628,Classical,English
+Buonamente,Giovanni Battista,1595,1642,Baroque,Italian
 Burgon,Geoffrey,1941,Still living,Classical,
 Busch,William,1901,1945,Classical,
 Bush,Alan,1900,1995,Classical,
@@ -149,9 +151,9 @@ Corelli,Arcangelo,1653,1713,Baroque,Italian
 Corigliano,John,1938,Still living,Classical,United States
 Cornysh,William,1468,1523,Classical,
 Couperin,Armand-Louis,1725,1789,Classical,
-Couperin,François,1668,1733,Classical,
-Couperin,Louis,1626,1661,Classical,
-Couperin,Marc Roger,1663,1734,Classical,
+Couperin,François,1668,1733,Baroque,
+Couperin,Louis,1626,1661,Baroque,
+Couperin,Marc Roger,1663,1734,Baroque,
 Cowell,Henry,1897,1965,Classical,
 Creston,Paul,1906,1985,Classical,
 Cristo,Pedro de,1550,1618,Classical,
@@ -163,6 +165,7 @@ Delius,Frederick Theodore Albert,1862,1934,Modern,English
 D'India,Sigismondo,1582,1630,Classical,
 Damase,Jean-Michel,1928,Still living,Classical,
 Danzi,Franz,1763,1826,Classical,
+da Palestrina,Giovanni Pierluigi,1525,1594,Renaissance,Italian
 Daquin,Louis-Claude,1694,1772,Classical,
 Darnton,Christian,1905,1981,Classical,
 Davies,Sir Henry Walford,1869,1941,Classical,
@@ -170,10 +173,14 @@ Davis,Carl,1936,Still living,Classical,
 Debussy,Claude,1862,1918,Impressionist,French
 Decaux,Abel,1869,1943,Classical,
 de Laporta,Isidro,1750,1808,Classical,Spanish
+de Lassus,Orlande,1532,1594,Renaissance,Flemish (Belgian)
 Del Tredici,David,1937,Still living,Classical,
 Delage,Maurice,1879,1961,Classical,
+Delalande,Michel Richard,1657,1726,Baroque,French
 Delibes,Léo,1836,1891,Romantic,French
 Delius,Frederick,1862,1934,Modern,English
+des Prez,Josquin,1455,1521,Renaissance,French
+de Victoria,Tomás Luis,1548,1611,Renaissance,Spanish
 Devienne,François,1759,1803,Classical,
 Diamond,David,1915,2005,Classical,
 Dietrich,Albert,1829,1908,Classical,
@@ -182,7 +189,7 @@ Dodgson,Stephen,1924,Still living,Classical,
 Dohnányi,Ernst von,1877,1960,Classical,
 Donizetti,Domenico Gaetano Maria,1797,1848,Bel canto,Italian
 Dove,Jonathan,1959,Still living,Modern,English
-Dowland,John,1563,1626,Renaissance,
+Dowland,John,1563,1626,Renaissance,English
 Dreyschock,Alexander,1818,1869,Classical,
 Du Mont,Henry,1610,1684,Classical,
 Dufay,Guillaume,1400,1474,Classical,
@@ -197,6 +204,7 @@ Duruflé,Maurice,1902,1986,Classical,
 Dutilleux,Henri,1916,Still living,Classical,
 Dvořák,Antonín,1841,1904,Classical,Czech
 Dyson,George,1883,1964,Classical,
+Eccles,1668,1668,1735,Baroque,English
 Edwards,Ross,1943,Still living,Classical,
 El-Khoury,Bechara,1957,Still living,Classical,
 Elgar,Edward,1857,1934,Romantic,English
@@ -205,6 +213,7 @@ Elms,Roderick,1951,Still living,Classical,
 Emmanuel,Maurice,1862,1938,Classical,
 Enescu,Georges,1881,1955,Classical,
 Erlebach,Philipp Heinrich,1657,1714,Baroque,German
+Falconieri,Andrea,1586,1656,Baroque,Italian
 Falla,Manuel de,1876,1946,Classical,
 Farnaby,Giles,1562,1640,Classical,
 Farnon,Robert,1917,Still living,Classical,
@@ -233,7 +242,9 @@ Gounod,Charles,1818,1893,Romantic,French
 Granados,Enrique,1867,1916,Romantic,Spanish
 Grieg,Edvard Hagerup,1843,1907,Romantic,Norwegian
 Griffes,Charles Tomlinson,1884,1920,Impressionist,American
+Grofé,Ferde,1892,1972,Modern,American
 Groslot,Robert,1951,Still living,Modern,Belgian
+Gouvy,Théodore,1819,1898,Romantic,French-German
 Gurney,Ivor,1890,1937,Romantic,English
 Hakenberger,Andreas,1574,1627,Baroque,German
 Handel,George Frideric Handel,1685,1759,Baroque,German-English
@@ -244,10 +255,12 @@ Hindemith,Paul,1895,1963,Modern,German
 Holst,Gustav Theodore,1874,1934,Romantic,English
 Holzbauer,Ignaz,1711,1783,Classical,Austrian
 Horner,James,1953,2015,Film music,American
+Hueber,Wendelin,1615,1679,Baroque,Austrian
 Ireland,John,1878,1962,Modern,English
 Ives,Charles Edward,1874,1954,Modernist,American
 Janáček,Leoš,1854,1928,Romantic,Czech
 Jarre,Maurice-Alexis,1924,2009,Film music,French
+Jarrett,Keith,1945,Still living,Modern,American
 Joplin,Scott,1868,1917,Ragtime,American
 Kavanagh,Dale,1958,Still living,Modern,Canadian
 Korngold,Erich Wolfgang,1897,1957,Modern,Austrian-American
@@ -278,7 +291,9 @@ Monn,Georg Matthias,1717,1750,Baroque,Austrian
 Monteverdi,Claudio Giovanni Antonio,1567,1643,Baroque,Italian
 Mozart,Johann Georg Leopold,1719,1787,Classical,German
 Mozart,Wolfgang Amadeus,1756,1791,Classical,Austrian
+Muffat,Georg,1653,1704,Baroque,French
 Mussorgsky,Modest Petrovich,1839,1881,Romantic,Russian
+Myaskovsky,Nikolai,1881,1950,Modern,Russian
 Mysliveček,Josef,1737,1781,Classical,Czech
 Nielsen,Carl August,1865,1931,Romantic,Danish
 Offenbach,Jacques,1819,1880,Romantic,German-French
@@ -313,6 +328,7 @@ Reinecke,Carl,1824,1910,Romantic,German
 Respighi,Ottorino,1879,1936,Modern,Italian
 Richter,Franz Xaver,1709,1789,Classical,Austrian
 Rimsky-Korsakov,Nikolai Andreyevich,1844,1908,Romantic,Russian
+Rittler,Philipp Jakob,c1637,1690,Baroque,Austrian
 Rodrigo,Joaquín,1901,1999,Modern,Spanish
 Rosetti,Francesco Antonio,1750,1792,Classical,Bohemian (Czech Republic)
 Rossi,Luigi,1597,1653,Baroque,Italian
@@ -324,7 +340,9 @@ Sainz de la Maza,Eduardo,1903,1982,Modern,Spanish
 Sainz de la Maza,Regino,1896,1981,Modern,Spanish
 Salieri,Antonio,1750,1825,Classical,Italian
 Sammartini,Giovani Battista,1700,1775,Classical,Italian
+Sances,Giovanni Felice,1600,1679,Baroque,Italian
 Satie,Erik,1866,1925,Modern,French
+Scarlatti,Alessandro,1660,1725,Baroque,Italian
 Scarlatti,Domenico,1685,1757,Baroque,Italian
 Schenk,Johann Baptist,1753,1836,Classical,Austrian
 Schoenberg,Arnold,1874,1951,Modern,Austrian-American
@@ -358,7 +376,9 @@ Sullivan,Arthur Seymour,1842,1900,Romantic,English
 Sweelinck,Jan Pieterszoon,1562,1621,Renaissance,Dutch
 Szymanowski,Karol Maciej,1882,1937,Modern,Polish
 Talbot,Joby,1971,Still living,Modern,English
+Tallis,Thomas,Unknown,1585,Renaissance,English
 Taneyev,Sergei,1856,1915,Romantic,Russian
+Tartini,Giuseppe,1692,1770,Baroque,Italian
 Taverner,John,1480,1545,Renaissance,English
 Tavener,John,1944,2013,Classical,British
 Tchaikovsky,Pyotr Ilyich,1840,1893,Romantic,Russian
@@ -381,5 +401,7 @@ Webern,Anton Friedrich Wilhelm,1883,1945,Modern,Austrian
 Weill,Kurt Julian,1900,1950,Modern,German-American
 Weir,Judith,1954,Still living,Modern,British
 Wranitzky,Paul,1756,1808,Classical,Moravian (Czech Republic)
+Ysaÿe,Eugène,1858,1931,Romantic,Belgian
 Zelenka,Jan Dismas,1679,1745,Baroque,Czech
+Zemlinsky,Alexander von,1871,1942,Modern,Austrian
 Zimmermann,Anton,1741,1781,Classical,Silesian
