@@ -77,14 +77,14 @@ Boccherini,Luigi,1743,1805,Classical,Italian-Spanish
 Boïeldieu,François,1775,1834,Classical,
 Boito,Arrigo,1842,1918,Classical,
 Bonds,Margaret Allison,1913,1972,Modern,American
-Borodin,Alexander,1833,1887,Classical,
+Borodin,Alexander,1833,1887,Romantic,Russian
 Bortkiewicz,Sergei,1877,1952,Classical,
 Bottesini,Giovanni,1821,1889,Romantic,Italian
 Boughton,Rutland,1878,1960,Classical,
 Boulanger,Lili,1893,1918,Classical,
 Boulanger,Nadia,1887,1979,Classical,
 Boulez,Pierre,1925,2016,Classical,French
-Bowen,York,1884,1961,Classical,
+Bowen,York,1884,1961,Romantic,English
 Boyce,William,1711,1779,Classical,
 Brahms,Johannes,1833,1897,Classical,German
 Brian,Havergal,1876,1972,Classical,
@@ -112,6 +112,7 @@ Camilleri,Charles,1931,Still living,Classical,
 Campion,Thomas,1567,1620,Classical,
 Cannabich,Johann,1731,1798,Classical,German
 Canteloube,Marie-Joseph,1879,1957,Classical,
+Capers,Valerie,1935,Still living,Jazz,American
 Caplet,André,1878,1925,Classical,
 Carvalho,João de Sousa,1745,1798,Classical,Portuguese
 Cardoso,Frei Manuel,1566,1650,Classical,
@@ -174,7 +175,6 @@ Davis,Carl,1936,Still living,Classical,
 Debussy,Claude,1862,1918,Impressionist,French
 Decaux,Abel,1869,1943,Classical,
 de Laporta,Isidro,1750,1808,Classical,Spanish
-de Lassus,Orlande,1532,1594,Renaissance,Flemish (Belgian)
 Del Tredici,David,1937,Still living,Classical,
 Delage,Maurice,1879,1961,Classical,
 Delalande,Michel Richard,1657,1726,Baroque,French
@@ -232,16 +232,20 @@ Fischer,Johann Caspar Ferdinand,1656,1746,Baroque,German
 Franck,César,1822,1890,Romantic,Belgian
 Frescobaldi,Girolamo,1583,1643,Baroque,Italian
 Fux,Johann Joseph,1660,1741,Baroque,Austrian
+Gabrieli,Andrea,1532,1585,Renaissance,Italian
+Gabrieli,Giovanni,1554,1612,Renaissance,Italian
 Gerhard,Robert,1896,1970,Modern,Spanish
 Gershwin,George,1898,1937,Multiple,American
 Gibbons,Orlando,1583,1625,Renaissance,English
 Ginastera,Alberto Evaristo,1916,1983,Classical,Argentinian
 Glass,Philip,1937,Still living,Modern,American
+Glinka,Mikhail,1804,1857,Romantic,Russian
 Gluck,Christoph Willibald,1714,1787,Classical,German
 Goldmark,Karl,1830,1915,Romantic,Hungarian-Austrian
 Goodyear,Stewart,1978,Still living,Modern,Canadian
 Gossec,François Joseph,1734,1829,Classical,French
 Gounod,Charles,1818,1893,Romantic,French
+Grainger,Percy,1882,1961,Modern,Australian-American
 Granados,Enrique,1867,1916,Romantic,Spanish
 Grieg,Edvard Hagerup,1843,1907,Romantic,Norwegian
 Griffes,Charles Tomlinson,1884,1920,Impressionist,American
@@ -253,6 +257,7 @@ Hakenberger,Andreas,1574,1627,Baroque,German
 Handel,George Frideric Handel,1685,1759,Baroque,German-English
 Haydn,Franz Joseph,1732,1809,Classical,Austrian
 Haydn,Michael,1737,1806,Classical,Austrian
+Heinichen,Johann David,1683,1729,Baroque,German
 Henze,Hans Werner,1926,2012,Modern,German
 Hindemith,Paul,1895,1963,Modern,German
 Holst,Gustav Theodore,1874,1934,Romantic,English
@@ -279,15 +284,18 @@ Ligeti,György,1923,2006,Modern,Hungarian-Austrian
 Liszt,Franz,1811,1886,Romantic,Hungarian
 Lotti,Antonio,1667,1740,Baroque,Italian
 Lully,Jean-Baptiste,1632,1687,Baroque,Italian-French
+Lassus,Orlande de,1532,1594,Renaissance,Flemish (Belgian)
 Luzzaschi,Luzzasco,1545,1607,Renaissance,Italian
 Mahler,Gustav,1860,1911,Romantic,Austro-Bohemian
 Malats,Joaquín,1872,1912,Romantic,Spanish
 Marais,Marin,1656,1728,Baroque,French
 Marcello,Alessandro Ignazio,1673,1747,Baroque,Italian
 Massenet,Jules,1842,1912,Romantic,French
+Medtner,Nikolai,1879,1951,Romantic,Russian
 Mendelssohn,Felix,1809,1847,Romantic,German
 Mendelssohn Bartholdy,Albrecht,1874,1936,Romantic,German
 Mertz,Joseph Kaspar,1806,1856,Romantic,Austrian-Hungarian
+Merulo,Claudio,1533,1604,Renaissance,Italian
 Messiaen,Olivier Eugène Prosper Charles,1908,1992,Modern,French
 Molter,Johann Melchior,1696,1765,Baroque,German
 Moniuszko,Stanisław,1819,1872,Romantic,Polish
@@ -350,6 +358,8 @@ Sances,Giovanni Felice,1600,1679,Baroque,Italian
 Satie,Erik,1866,1925,Modern,French
 Scarlatti,Alessandro,1660,1725,Baroque,Italian
 Scarlatti,Domenico,1685,1757,Baroque,Italian
+Scheidt,Samuel,1587,1654,Baroque,German
+Schein,Johann Hermann,1586,1630,Baroque,German
 Schenk,Johann Baptist,1753,1836,Classical,Austrian
 Schoenberg,Arnold,1874,1951,Modern,Austrian-American
 Scriabin,Alexander,1871,1915,Modern,Russian
