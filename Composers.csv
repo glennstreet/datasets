@@ -5,9 +5,9 @@ Adams,John,1947,Still living,Classical,American,Male
 Adès,Thomas,1971,Still living,Classical,British,Male
 Aho,Kalevi,1949,Still living,Modern,Finnish,Male
 Akpabot,Samuel,1932,2000,Modern,Nigerian,Male
-Alain,Jehan,1911,1940,Classical,,
+Alain,Jehan,1911,1940,Modern,French,Male
 Albéniz,Isaac,1860,1909,Romantic,Spanish,Male
-Albert,Eugen d',1864,1932,Classical,,Male
+Albert,Eugen d',1864,1932,Romantic,Scottish,Male
 Albinoni,Tomaso,1671,1751,Baroque,Italian,Male
 Albrechtsberger,Johann Georg,1736,1809,Classical,Austrian,Male
 Alfano,Franco,1875,1954,Classical,,Male
@@ -239,6 +239,7 @@ Field,John,1782,1837,Classical,,Male
 Fils,Anton,1733,1760,Classical,German,Male
 Finzi,Gerald,1901,1956,Modern,English,Male
 Fischer,Johann Caspar Ferdinand,1656,1746,Baroque,German,Male
+Fortner,Wolfgang,1907,1987,Modern,German,Male
 Franck,César,1822,1890,Romantic,Belgian,Male
 Frescobaldi,Girolamo,1583,1643,Baroque,Italian,Male
 Fux,Johann Joseph,1660,1741,Baroque,Austrian,Male
@@ -366,8 +367,11 @@ Rebel,Jean-Féry,1666,1747,Baroque,French,Male
 Reed,Lou (Lewis Allan),1942,2013,Rock,United States,Male
 Reich,Steve (Stephen Michael),1936,Still living,Minimalism,United States,Male
 Reicha,Anton,1770,1836,Classical,Czech-French,Male
+Reimann,Aribert,1936,Still living,Modern,German,Male
 Reinecke,Carl,1824,1910,Romantic,German,Male
 Respighi,Ottorino,1879,1936,Modern,Italian,Male
+Reutter,Hermann,1900,1985,Modern,German,Male
+Reutter,Johann Georg,1708,1772,Classical,Austrian,Male
 Richter,Franz Xaver,1709,1789,Classical,Austrian,Male
 Rimsky-Korsakov,Nikolai Andreyevich,1844,1908,Romantic,Russian,Male
 Rittler,Philipp Jakob,c1637,1690,Baroque,Austrian,Male
@@ -437,6 +441,7 @@ Uccellini,Marco,1603,1680,Baroque,Italian,Male
 Vaughan Williams,Ralph,1872,1958,Modern,English,Male
 Venables,Philip,1978,Still living,Modern,English,Male
 Verdi,Giuseppe Fortunino Francesco,1813,1901,Romantic,Italian,Male
+Vierne,Louis,1870,1937,Romantic,French,Male
 Villa-Lobos,Heitor,1887,1959,Modern,Brazilian,Male
 Vivaldi,Antonio,1678,1741,Baroque,Italian,Male
 Wagenseil,Georg Christoph,1715,1777,Baroque,Austrian,Male
