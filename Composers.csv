@@ -5,6 +5,7 @@ Abrahamsen,Hans,1952,Still living,Modern,Danish,Male
 Adam,Adolphe,1803,1856,Romantic,French,Male
 Adams,John,1947,Still living,Classical,American,Male
 Adams,Leslie,1932,Still living,Modern,American,Male
+Adolphe,Julia,1988,Still living,Modern,American,Female
 Addinsell,Richard,1904,1977,Film music,English,Male
 Adès,Thomas,1971,Still living,Classical,English,Male
 Aho,Kalevi,1949,Still living,Modern,Finnish,Male
@@ -30,6 +31,7 @@ Aragón,Emilio,1959,Still living,Film music,Cuban,Male
 Arensky,Anton,1861,1906,Romantic,Russian,Male
 Ariosti,Attilio,1666,1729,Baroque,Italian,Male
 Arnalds,Ólafur,1986,Still living,Modern,Icelandic,Male
+Árnason,Viktor Orri,?,Still living,Modern,Icelandic,Male
 Arne,Thomas,1710,1778,Baroque,English,Male
 Arnell,Richard,1917,2009,Modern,English,Male
 Arnold,Malcolm,1921,2006,Modern,English,Male
@@ -73,15 +75,17 @@ Bennett,Richard Rodney,1936,2012,Film and Television Music,English,Male
 Bennett,William Sterndale,1816,1875,Romantic,English,Male
 Bentzon,Niels Viggo,1919,2000,Modern,Danish,Male
 Berg,Alban,1885,1935,Modern,Austrian,Male
+Berger,Arthur,1912,2003,Modern,American,Male
 Berio,Luciano,1925,2003,Modern,Italian,Male
 Bériot,Charles-Auguste de,1802,1870,Romantic,Belgian,Male
 Berkeley,Lennox,1903,1989,Modern,English,Male
 Berkeley,Michael,1948,Still living,Modern,English,Male
 Berlioz,Louis-Hector,1803,1869,Romantic,French,Male
 Berners,Lord,1883,1950,Romantic,English,Male
-Bernstein,Leonard,1918,1990,Classical,American,Male
+Bernstein,Leonard,1918,1990,Modern,American,Male
 Bertali,Antonio,1605,1669,Baroque,Italian,Male
 Berwald,Franz,1796,1868,Romantic,Swedish,Male
+Beving,Joep,1976,Still living,Modern,Dutch,Male
 Biber,Heinrich,1644,1704,Baroque,Bohemian-Austrian,Male
 Billings,William,1746,1800,Choral,American,Male
 Binge,Ronald,1910,1979,Modern,English,Male
@@ -152,7 +156,7 @@ Carter,Elliott,1908,Still living,Classical,American,Male
 Carvalho,João de Sousa,1745,1798,Classical,Portuguese,Male
 Carwithen,Doreen,1922,2003,Classical,,Female
 Casella,Alfredo,1883,1947,Classical,,Male
-Castelnuovo-Tedesco,Mario,1895,1968,Modern,Italian,Male
+Castelnuovo-Tedesco,Mario,1895,1968,Modern,Italian-American,Male
 Catalani,Alfredo,1854,1893,Classical,,Male
 Catillon,Alexis de,1838,1873,Classical,,Male
 Cavalli,Francesco,1602,1676,Classical,,Male
@@ -163,9 +167,10 @@ Chagrin,Francis,1905,1972,Classical,,Male
 Chaminade,Cécile Louise,1857,1944,Romantic,French,Female
 Charpentier,Gustave,1860,1956,Classical,,Male
 Charpentier,Marc-Antoine,1643,1704,Baroque,French,Male
-Chausson,Ernest,1855,1899,Classical,,Male
+Chausson,Ernest,1855,1899,Romantic,French,Male
 Cherubini,Luigi,1760,1842,Classical,,Male
 Chilcott,Bob,1955,Still living,Classical,,Male
+Chin,Unsuk,1961,Still living,Modern,South Korean,Female
 Chisolm,Erik,1904,1965,Classical,,Male
 Chopin,Frédéric,1810,1849,Romantic,Polish,Male
 Cilea,Francesco,1866,1950,Classical,,Male
@@ -195,16 +200,17 @@ Couperin,Gervais-François,1759,1826,Classical,French,Male
 Couperin,Louis,1626,1661,Baroque,French,Male
 Couperin,Marc Roger,1663,1734,Baroque,French,Male
 Couperin,Pierre-Louis,1755,1789,Baroque,French,Male
-Cowell,Henry,1897,1965,Classical,,Male
-Creston,Paul,1906,1985,Classical,,Male
-Cristo,Pedro de,1550,1618,Classical,,Male
-Crosse,Gordon,1937,Still living,Classical,,Male
-Crumb,George,1929,Still living,Modern,American,
+Coward,James,1824,1880,Romantic,English,Male
+Cowell,Henry,1897,1965,Modern,American,Male
+Creston,Paul,1906,1985,Classical,Italian-American,Male
+Cristo,Pedro de,1550,1618,Renaissance,Portuguese,Male
+Crosse,Gordon,1937,Still living,Modern,English,Male
+Crumb,George,1929,Still living,Modern,American,Male
 Cummings,Richard,1928,Still living,Classical,,Male
 Curzon,Frederick,1899,1973,Classical,,Male
-D'Astorga,Emanuele,1680,1757,Classical,,
+D'Astorga,Emanuele,1680,1757,Classical,Italian,Male
 D'India,Sigismondo,1582,1630,Classical,,Male
-da Palestrina,Giovanni Pierluigi,1525,1594,Renaissance,Italian,Male
+Dallapiccola,Luigi,1904,1975,Modern,Italian,Male
 Damase,Jean-Michel,1928,Still living,Classical,,Male
 Danzi,Franz,1763,1826,Classical,,Male
 Daquin,Louis-Claude,1694,1772,Classical,,Male
@@ -231,7 +237,7 @@ Dietrich,Albert,1829,1908,Classical,,Male
 d'India,Sigismondo,1582,1629,Renaissance,Italian,Male
 Dittersdorf,Carl Ditters von,1739,1799,Classical,,Male
 Dodgson,Stephen,1924,Still living,Classical,,Male
-Dohnányi,Ernst von,1877,1960,Classical,Hungarian,Male
+Dohnányi,Ernst von,1877,1960,Romantic,Hungarian,Male
 Donizetti,Domenico Gaetano Maria,1797,1848,Bel canto,Italian,Male
 Dove,Jonathan,1959,Still living,Modern,English,Male
 Dowland,John,1563,1626,Renaissance,English,Male
@@ -251,9 +257,10 @@ Dutilleux,Henri,1916,2013,Classical,French,Male
 Dvořák,Antonín,1841,1904,Classical,Czech,Male
 Dyson,George,1883,1964,Classical,,Male
 Eccles,1668,1668,1735,Baroque,English,Male
-Edwards,Ross,1943,Still living,Classical,,Male
-El-Khoury,Bechara,1957,Still living,Classical,,
+Edwards,Ross,1943,Still living,Modern,Australian,Male
+El-Khoury,Bechara,1957,Still living,Classical,Lebanese-French,Male
 Elgar,Edward,1857,1934,Romantic,English,Male
+Ellington,Duke,1899,1974,Jazz,American,Male
 Ellis,Don,1934,1978,Jazz,American,Male
 Elmas,Stéphan,1862,1937,Romantic,Armenian,Male
 Elms,Roderick,1951,Still living,Modern,English,Male
@@ -273,6 +280,7 @@ Fesca,Friedrich Ernst,1789,1826,Classical,German,Male
 Fibich,Zdeněk,1850,1900,Romantic,Czech,Male
 Field,John,1782,1837,Romantic,Irish,Male
 Fils,Anton,1733,1760,Classical,German,Male
+Fine,Irving,1914,1962,Modern,American,Male
 Finzi,Gerald,1901,1956,Modern,English,Male
 Fischer,Johann Caspar Ferdinand,1656,1746,Baroque,German,Male
 Floyd,Carlisle,1926,Still living,Modern,American,Male
@@ -308,9 +316,13 @@ Grieg,Edvard Hagerup,1843,1907,Romantic,Norwegian,Male
 Griffes,Charles Tomlinson,1884,1920,Impressionist,American,Male
 Grofé,Ferde,1892,1972,Modern,American,Male
 Groslot,Robert,1951,Still living,Modern,Belgian,Male
+Gruber,Franz Xaver,1787,1863,Classical,Austrian,Male
+Gruber,Heinz Karl “HK”,1943,Still living,Modern,Austrian,Male
+Gubaidulina,Sofia,1931,Still living,Modern,Russian,Female
 Guðnadóttir,Hildur,1982,Still living,Modern,Icelandic,Female
 Guerrero,Francisco,1528,1599,Renaissance,Italian,Male
 Gurney,Ivor,1890,1937,Romantic,English,Male
+Haieff,Alexei,1914,1994,Modern,American,Male
 Hailstork,Adolphus,1941,Still living,Modern,American,Male
 Hakenberger,Andreas,1574,1627,Baroque,German,Male
 Handel,George Frideric,1685,1759,Baroque,German-English,Male
@@ -322,6 +334,7 @@ Haydn,Franz Joseph,1732,1809,Classical,Austrian,Male
 Haydn,Michael,1737,1806,Classical,Austrian,Male
 Heinichen,Johann David,1683,1729,Baroque,German,Male
 Henze,Hans Werner,1926,2012,Modern,German,Male
+Herrmann,Bernard,1911,1975,Film music,American,Male
 Hindemith,Paul,1895,1963,Modern,German,Male
 Holst,Gustav Theodore,1874,1934,Romantic,English,Male
 Holzbauer,Ignaz,1711,1783,Classical,Austrian,Male
@@ -345,6 +358,7 @@ Kelley,Edgar Stillman,1857,1944,Romantic,American,Male
 Kernis,Aaron Jay,1960,Still living,Modern,American,Male
 Kerr,Thomas Henderson,1915,1988,Modern,American,Male
 Kodály,Zoltán,1882,1967,Modern,Hungarian,Male
+Kopp,Rudolph,1887,1972,Film music,Australian-American,Male
 Korngold,Erich Wolfgang,1897,1957,Modern,Austrian-American,Male
 Kozeluch,Leopold,1747,1818,Classical,Bohemian (Czech Republic),Male
 Kraus,Joseph Martin,1756,1792,Classical,German,Male
@@ -359,6 +373,8 @@ Lassus,Orlande de,1532,1594,Renaissance,Flemish (Belgian),Male
 Leclair,Jean-Marie,1697,1764,Baroque,French,Male
 Leduc,Simon,1742,1777,Classical,French,Male
 Legnani,Luigi,1790,1877,Romantic,Italian,Male
+Leoncavallo,Ruggero,1857,1919,Romantic,Italian,Male
+Lehár,Franz,1870,1948,Romantic,Austro-Hungarian,Male
 Lehmann,Liza,1862,1918,Romantic,English,Female
 Léonin,,12th c.,,Medieval,French,Male
 Levy,Hank,1927,2001,Jazz,American,Male
@@ -368,11 +384,14 @@ Lotti,Antonio,1667,1740,Baroque,Italian,Male
 Lully,Jean-Baptiste,1632,1687,Baroque,Italian-French,Male
 Luzzaschi,Luzzasco,1545,1607,Renaissance,Italian,Male
 MacDowell,Edward,1860,1908,Romantic,American,Male
+McDowall,Cecilia,1951,Still living,Modern,English,Female
 Mahler,Gustav,1860,1911,Romantic,Austro-Bohemian,Male
 Malats,Joaquín,1872,1912,Romantic,Spanish,Male
 Mancini,Henry,1924,1994,Film music,American,Male
 Marais,Marin,1656,1728,Baroque,French,Male
 Marcello,Alessandro Ignazio,1673,1747,Baroque,Italian,Male
+Marx,Joseph,1882,1964,Romantic,Austrian,Male
+Mascagni,Pietro,1863,1945,Romantic,Italian,Male
 Mason,Lowell,1792,1872,Liturgical,American,Male
 Massenet,Jules,1842,1912,Romantic,French,Male
 Matthews,David,1943,Still living,Modern,English,Male
@@ -380,11 +399,13 @@ Mayr,Johann Simon,1763,1845,Classical,German,Male
 Mazzoli,Missy,1980,Still living,Modern,American,Female
 McLaughlin,John,1942,Still living,Modern,English,Male
 Medtner,Nikolai,1879,1951,Romantic,Russian,Male
+Melichar,Alois,1896,1976,Modern,Austrian,Male
 Mendelssohn,Fanny,1805,1847,Romantic,German,Female
 Mendelssohn,Felix,1809,1847,Romantic,German,Male
 Mendelssohn Bartholdy,Albrecht,1874,1936,Romantic,German,Male
 Mertz,Joseph Kaspar,1806,1856,Romantic,Austrian-Hungarian,Male
 Merulo,Claudio,1533,1604,Renaissance,Italian,Male
+Messager,André,1853,1929,Romantic,French,Male
 Messiaen,Olivier Eugène Prosper Charles,1908,1992,Modern,French,Male
 Meude-Monpas,Chevalier de,?,?,Classical,French,Male
 Moby,,1965,Still living,Dance,American,Male
@@ -405,6 +426,7 @@ Murcia,Santiago de,1673,1739,Baroque,Spanish,Male
 Mussorgsky,Modest Petrovich,1839,1881,Romantic,Russian,Male
 Myaskovsky,Nikolai,1881,1950,Modern,Russian,Male
 Mysliveček,Josef,1737,1781,Classical,Czech,Male
+Nabors,Brian Raphael,1991,Still living,Modern,American,Male
 Naudot,Jacques-Christophe,1690,1762,Baroque,French,Male
 Nielsen,Carl August,1865,1931,Romantic,Danish,Male
 O'Halloran,Dustin,1971,Still living,Modern,American,Male
@@ -417,6 +439,7 @@ Pachelbel,Johann,1653,1706,Baroque,German,Male
 Padding,Martijn,1956,Still living,Modern,Dutch,Male
 Paganini,Niccolò,1782,1840,Romantic,Italian,Male
 Paine,John Knowles,1839,1906,Romantic,American,Male
+Palestrina,Giovanni Pierluigi da,1525,1594,Renaissance,Italian,Male
 Panufnik,Andrzej,1914,1991,Modern,Polish-English,Male
 Panufnik,Roxanna,1968,Still living,Modern,English,Female
 Paradis,Maria Theresia von,1759,1824,Classical,Austrian,Female
@@ -449,6 +472,8 @@ Raaff,Robin de,1968,Still living,Modern,Dutch,Male
 Rachmaninoff,Sergei Vasilyevich,1873,1943,Romantic,Russian,Male
 Raff,Joachim,1822,1882,Romantic,German,Male
 Rameau,Jean-Philippe,1684,1764,Baroque,French,Male
+Rands,Bernard,1934,Still living,Modern,English-American,Male
+Rautavaara,Einojuhani,1928,2016,Modern,Finnish,Male
 Ravel,Maurice,1875,1937,Modern,French,Male
 Rebel,Jean-Féry,1666,1747,Baroque,French,Male
 Reed,Lou (Lewis Allan),1942,2013,Rock,United States,Male
@@ -456,12 +481,14 @@ Reger,Max,1873,1916,Romantic,German,Male
 Regondi,Giulio,1822,1872,Romantic,Swiss,Male
 Reich,Steve (Stephen Michael),1936,Still living,Minimalism,United States,Male
 Reicha,Anton,1770,1836,Classical,Czech-French,Male
+Reid,Ellen,1983,Still living,Modern,American,Female
 Reimann,Aribert,1936,Still living,Modern,German,Male
 Reinecke,Carl,1824,1910,Romantic,German,Male
 Respighi,Ottorino,1879,1936,Modern,Italian,Male
 Reutter,Hermann,1900,1985,Modern,German,Male
 Reutter,Johann Georg,1708,1772,Classical,Austrian,Male
 Richter,Franz Xaver,1709,1789,Classical,Austrian,Male
+Richter,Max,1966,Still living,Modern,German-English,Male
 Rimsky-Korsakov,Nikolai Andreyevich,1844,1908,Romantic,Russian,Male
 Rittler,Philipp Jakob,c1637,1690,Baroque,Austrian,Male
 Rode,Pierre,1774,1830,Romantic,French,Male
@@ -479,12 +506,15 @@ Salieri,Antonio,1750,1825,Classical,Italian,Male
 Samaras,Spyridon,1861,1917,Romantic,Greek,Male
 Sammartini,Giovani Battista,1700,1775,Classical,Italian,Male
 Sances,Giovanni Felice,1600,1679,Baroque,Italian,Male
+Saariaho,Kaija,1952,Still living,Modern,Finnish,Female
 Satie,Erik,1866,1925,Modern,French,Male
 Scarlatti,Alessandro,1660,1725,Baroque,Italian,Male
 Scarlatti,Domenico,1685,1757,Baroque,Italian,Male
+Scheibe,Johann Adolf,1708,1776,Baroque,German-Danish,Male
 Scheidt,Samuel,1587,1654,Baroque,German,Male
 Schein,Johann Hermann,1586,1630,Baroque,German,Male
 Schenk,Johann Baptist,1753,1836,Classical,Austrian,Male
+Schnittke,Alfred,1934,1998,Modern,Russian,Male
 Schoenberg,Arnold,1874,1951,Modern,Austrian-American,Male
 Schubert,Franz Peter,1797,1828,Classical,Austrian,Male
 Schumann,Clara Josephine,1819,1896,Romantic,German,Female
@@ -495,6 +525,7 @@ Scriabin,Alexander,1871,1915,Modern,Russian,Male
 Seixas,Carlos,1704,1742,Baroque,Portuguese,Male
 Senaillé,Jean-Baptiste,1687,1730,Baroque,French,Male
 Shand,Ernest,1868,1924,Romantic,English,Male
+Shapero,Harold,1920,2013,Modern,American,Male
 Shore,Howard,1946,Still living,Film music,Canadian,Male
 Shostakovich,Dmitry,1906,1975,Modern,Russian,Male
 Sibelius,Jean,1865,1957,Romantic,Finnish,Male
@@ -512,16 +543,19 @@ Spohr,Ludwig,1784,1859,Romantic,German,Male
 Stamitz,Anton Thadäus Johann Nepomuk,1750,1798-1809,Classical,German,Male
 Stamitz,Carl Philipp,1745,1801,Classical,German,Male
 Stamitz,Johann Wenzel Anton,1717,1757,Classical,Bohemian (Czech Republic),Male
-Stanford,Charles Villiers,1852,1924,Romantic,,
+Stanford,Charles Villiers,1852,1924,Romantic,Irish,Male
 Starzer,Josef,1726,1787,Baroque,Austrian,Male
 Steibelt,Daniel Gottlieb,1765,1823,Romantic,German,Male
+Steiner,Max,1888,1971,Film music,Austrian-American,Male
 Stenhammar,Wilhelm,1871,1927,Romantic,Swedish,Male
+Still,William Grant,1895,1978,Modern,American,Male
 Strauss,Richard Georg,1864,1949,Late Romantic,German,Male
 Strauss I,Johann Baptist,1804,1849,Romantic,Austrian,Male
 Strauss II,Johann Baptist,1825,1899,Romantic,Austrian,Male
 Stravinsky,Igor,1882,1971,Modern,Russian,Male
 Suk,Josef,1874,1935,Romantic,Czech,Male
 Sullivan,Arthur Seymour,1842,1900,Romantic,English,Male
+Suppé,Franz von,1819,1895,Romantic,Austrian,Male
 Sweelinck,Jan Pieterszoon,1562,1621,Renaissance,Dutch,Male
 Széchényi,Imre,1825,1898,Romantic,Hungarian,Male
 Szymanowski,Karol Maciej,1882,1937,Modern,Polish,Male
@@ -537,9 +571,13 @@ Taverner,John,1480,1545,Renaissance,English,Male
 Tchaikovsky,Pyotr Ilyich,1840,1893,Romantic,Russian,Male
 Telemann,Georg Philipp,1681,1767,Baroque,German,Male
 Thalberg,Sigismond,1812,1871,Romantic,Swiss,Male
+Thomas,Augusta Read,1964,Still living,Modern,American,Female
+Thomson,Virgil,1896,1989,Modern,American,Male
+Thompson,Randall,1899,1984,Modern,American,Male
 Tippett,Michael Kemp,1905,1998,Modern,English,Male
 Turina,Joaquín,1882,1949,Modern,Spanish,Male
 Uccellini,Marco,1603,1680,Baroque,Italian,Male
+Varèse,Edgard,1883,1965,Modern,French-American,Male
 Vaughan Williams,Ralph,1872,1958,Modern,English,Male
 Venables,Ian,1955,Still living,Modern,English,Male
 Venables,Philip,1978,Still living,Modern,English,Male
@@ -547,12 +585,14 @@ Verdi,Giuseppe Fortunino Francesco,1813,1901,Romantic,Italian,Male
 Vierne,Louis,1870,1937,Romantic,French,Male
 Villa-Lobos,Heitor,1887,1959,Modern,Brazilian,Male
 Vivaldi,Antonio,1678,1741,Baroque,Italian,Male
+Vladigerov,Pancho,1899,1978,Modern,Bulgarian,Male
 Wagenseil,Georg Christoph,1715,1777,Baroque,Austrian,Male
 Wagner,Wilhelm Richard,1813,1883,Romantic,German,Male
 Walton,William,1902,1983,Modern,English,Male
 Wanhal,Johann Baptist,1739,1813,Classical,Czech,Male
 Warlock,Peter,1894,1930,Romantic,English,Male
 Watkins,Huw,1976,Still living,Modern,Welsh,Male
+Waxman,Franz,1906,1967,Film music,German-American,Male
 Weber,Carl Maria von,1786,1826,Romantic,German,Male
 Webern,Anton Friedrich Wilhelm,1883,1945,Modern,Austrian,Male
 Weill,Kurt Julian,1900,1950,Modern,German-American,Male
@@ -560,14 +600,19 @@ Weir,Judith,1954,Still living,Modern,British,Female
 Whitacre,Eric,1970,Still living,Modern,American,Male
 White,Clarence Cameron,1880,1960,Neoromantic,American,Male
 Whiting,George,1840,1923,Romantic,American,Male
+Widmann,Jörg,1973,Still living,Modern,German,Male
 Widor,Charles-Marie,1844,1937,Romantic,French,Male
+Wieniawski,Henryk,1835,1880,Romantic,Polish,Male
+Wieniawski,Józef,1837,1912,Romantic,Polish,Male
 Williams,Hank,1923,1953,Country,American,Male
 Williams,John,1932,Still living,Film music,American,Male
 Wilson,Olly,1937,2018,Modern,American,Male
 Wood,Hugh,1932,Still living,Modern,English,Male
+Wooten,Victor,1964,Still living,Jazz,American,Male
 Wranitzky,Paul,1756,1808,Classical,Moravian (Czech Republic),Male
 Wuorinen,Charles,1938,2020,Modernist,American,Male
 Ye,Xiaogang,1955,Still living,Modern,Chinese,Male
+York,Andrew,1958,Still living,Modern,American,Male
 Ysaÿe,Eugène,1858,1931,Romantic,Belgian,Male
 Zelenka,Jan Dismas,1679,1745,Baroque,Czech,Male
 Zemlinsky,Alexander von,1871,1942,Romantic,Austrian,Male
